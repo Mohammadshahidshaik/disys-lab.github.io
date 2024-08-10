@@ -135,5 +135,37 @@
 				]
 			]
 		}
+	},
+	{
+		"id": "http://zotero.org/groups/5618423/items/VP2EP47E",
+		"type": "article-journal",
+		"container-title": "International Journal of Distributed Sensor Networks",
+		"issue": "10",
+		"note": "publisher: SAGE Publications Sage UK: London, England",
+		"page": "706083",
+		"title": "Indigo: an in situ distributed gossip framework for sensor networks",
+		"link": "https://journals.sagepub.com/doi/abs/10.1155/2015/706083",
+		"volume": "11",
+		"author": [
+			{
+				"family": "Ramanan",
+				"given": "Paritosh"
+			},
+			{
+				"family": "Kamath",
+				"given": "Goutham"
+			},
+			{
+				"family": "Song",
+				"given": "Wen-Zhan"
+			}
+		],
+		"issued": {
+			"date-parts": [
+				[
+					"2015"
+				]
+			]
+		}
 	}
 ]
