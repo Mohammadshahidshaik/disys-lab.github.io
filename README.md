@@ -1,6 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/dcf3d5d0-a4a4-486f-bd9a-64b612392aad/deploy-status)](https://app.netlify.com/sites/brave-bell-c85a34/deploys)
 
-# Research lab website template
+# DISys Lab Research Website
 
 This website is built with [Jekyll](https://jekyllrb.com/).
 It is derived from the great template provided by the
@@ -112,6 +112,7 @@ An entry looks like the following:
 ```yaml
 - date: 03/09/19
   title: "Something great"
+  link: "https://link.to.optional.news.article/"
   tags:
     - some
     - tags
