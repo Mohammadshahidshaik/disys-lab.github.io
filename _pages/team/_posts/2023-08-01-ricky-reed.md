@@ -2,7 +2,7 @@
 layout: member
 category: masters-student
 title: Richard Reed
-image: ricky.png
+image: ricky.jpg
 role: Masters (Thesis) Student
 styear: 2023
 permalink: 'team/ricky-reed'
