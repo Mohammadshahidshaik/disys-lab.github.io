@@ -23,4 +23,6 @@ My name is Richard Reed, and I hold a bachelor's degree in Industrial Engineerin
 
 As a research assistant, my work is focused on decentralizing large-scale unit commitment in power systems and electrified chemical process heating, framed within a mixed-integer problem. This research aims to contribute to decarbonization efforts by optimizing the integration of renewable energy sources and enhancing the efficiency of industrial processes. Utilizing the Python package Gurobi, my optimization tasks are run on the PETE supercomputer, allowing for the modeling and solution of these complex challenges at scale.
 
+In addition to my academic work, I gained practical experience during an internship at Pacific Gas and Electric as a Day Ahead Analyst. In this role, I was tasked with finding ways to integrate solar energy to provide ancillary services, furthering decarbonization efforts within the energy sector.
+
 This research not only contributes to advancing knowledge in industrial engineering but also addresses critical challenges in sustainability and resource management. My primary interests lie in power systems, decarbonization, and decentralization, driving my commitment to innovative solutions in these critical areas.
