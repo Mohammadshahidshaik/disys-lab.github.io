@@ -1,28 +1,5 @@
 [
-	{
-		"id": "http://zotero.org/groups/5618423/items/KT8GSD5Z",
-		"type": "document",
-		"title": "BLOCKCHAIN-BASED DECENTRALIZED COMPUTING",
-		"author": [
-			{
-				"family": "Paritosh P.",
-				"given": "Ramanan"
-			},
-			{
-				"family": "Nagi Z.",
-				"given": "Gebraeel"
-			}
-		],
-		"issued": {
-			"date-parts": [
-				[
-					"2022",
-					1,
-					13
-				]
-			]
-		}
-	},
+	
 	{
 		"id": "http://zotero.org/groups/5618423/items/6YFMZWRB",
 		"type": "paper-conference",
