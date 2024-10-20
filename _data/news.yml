@@ -1,3 +1,25 @@
+- date: 10/19/24
+  title: "DISys Lab Members are presenting their work at INFORMS 2024"
+  #link: "https://news.okstate.edu/articles/engineering-architecture-technology/2024/ramanan_decentralized_cyberattack_detection_nsf_award.html"
+  tags:
+    - talk
+  abstract: Three planned presentations regarding decarbonization and scenario generation methods
+  content: >
+           Lucius and Ricky are going to be presenting their research pertaining to
+           Importance Weighted Autoencoders (TA76: Computational Perspectives for Promoting Industrial Decarbonization) and decentralized formulations for decarbonized process heating.
+           Mohaimanul is presenting his work on decentralized methods of scenario generation (WC20: Application of Federated and Distributed Learning Frameworks).
+
+- date: 09/30/24
+  title: "NSF SaTC grant for decentralized cyber attack detection in critical infrastructure networks"
+  link: "https://news.okstate.edu/articles/engineering-architecture-technology/2024/ramanan_decentralized_cyberattack_detection_nsf_award.html"
+  tags:
+    - grants
+  abstract: New NSF grant to study privacy and trust for cyberattack detection on critical infrastructure
+  content: >
+           The grant from the Secure and Trustworthy Cyberspace (SaTC) program of NSF explores privacy preserving, decentralized
+           detection of attacks in multi-stakeholder infrastructure systems. Part of the research will look into statistical guarantees and 
+           cryptographically secure proofs of computation regarding detection outcomes.
+
 - date: 07/12/24
   title: "Paper accepted at Cell Reports Physical Science"
   tags:
@@ -51,13 +73,13 @@
            the Institute of Industrial and Systems Engineers Annual Conference 2024 to be held in Montreal, Canada. Their submission entitled
            "SplitVAES: Decentralized generation of scenarios from siloed data for stochastic optimization in large-scale power systems" focuses on generating 
            high quality data driven scenarios for stochastic optimization problems.
-
-- date: 12/05/23
-  title: "Masters thesis defense: Congratulations Timman!"
-  tags:
-    - defense
-  abstract: Timman defends Master's thesis on the use of VAEs for generating stochastic optimization scenarios
-  content: >
-           Timman's research is aimed at removing computational and scalability barriers corresponding to the use of Variational Autoencoders (VAEs) for scenario generation 
-           for stochastic optimization problems. 
-    
+#
+#- date: 12/05/23
+#  title: "Masters thesis defense: Congratulations Timman!"
+#  tags:
+#    - defense
+#  abstract: Timman defends Master's thesis on the use of VAEs for generating stochastic optimization scenarios
+#  content: >
+#           Timman's research is aimed at removing computational and scalability barriers corresponding to the use of Variational Autoencoders (VAEs) for scenario generation
+#           for stochastic optimization problems.
+#
