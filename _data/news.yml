@@ -1,9 +1,9 @@
 - date: 10/19/24
   title: "DISys Lab Members are presenting their work at INFORMS 2024"
-  #link: "https://news.okstate.edu/articles/engineering-architecture-technology/2024/ramanan_decentralized_cyberattack_detection_nsf_award.html"
+  link: "https://disys-lab.github.io/news"
   tags:
     - talk
-  abstract: Three planned presentations regarding decarbonization and scenario generation methods
+  abstract: Three planned presentations regarding decarbonization and scenario generation methods.
   content: >
            Lucius and Ricky are going to be presenting their research pertaining to
            Importance Weighted Autoencoders (TA76: Computational Perspectives for Promoting Industrial Decarbonization) and decentralized formulations for decarbonized process heating.
@@ -14,7 +14,7 @@
   link: "https://news.okstate.edu/articles/engineering-architecture-technology/2024/ramanan_decentralized_cyberattack_detection_nsf_award.html"
   tags:
     - grants
-  abstract: New NSF grant to study privacy and trust for cyberattack detection on critical infrastructure
+  abstract: New NSF grant to study privacy and trust for cyberattack detection on critical infrastructure.
   content: >
            The grant from the Secure and Trustworthy Cyberspace (SaTC) program of NSF explores privacy preserving, decentralized
            detection of attacks in multi-stakeholder infrastructure systems. Part of the research will look into statistical guarantees and 
